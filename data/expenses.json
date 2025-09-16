@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "item": "Fuel",
+        "amount": 5000,
+        "category": "Utilities",
+        "date": "2025-08-28"
+    },
+    {
+        "id": 2,
+        "item": "Electricity bill",
+        "amount": 50000,
+        "category": "Utilities",
+        "date": "2025-08-28"
+    },
+    {
+        "id": 3,
+        "item": "Breakfast",
+        "amount": 30000,
+        "category": "Food",
+        "date": "2025-08-28"
+    }
+]

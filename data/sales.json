@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "product_id": 1,
+        "quantity": 1,
+        "total_price": 20000,
+        "date": "2025-08-13"
+    },
+    {
+        "id": 2,
+        "product_id": 2,
+        "quantity": 12,
+        "total_price": 12000,
+        "date": "2025-08-11"
+    },
+    {
+        "id": 3,
+        "product_id": 4,
+        "quantity": 3,
+        "total_price": 600,
+        "date": "2025-08-11"
+    },
+    {
+        "id": 4,
+        "product_id": 6,
+        "quantity": 10,
+        "total_price": 5000,
+        "date": "2025-08-11"
+    },
+    {
+        "id": 5,
+        "product_id": 3,
+        "quantity": 1500,
+        "total_price": 3000000,
+        "date": "2025-08-29"
+    },
+    {
+        "id": 6,
+        "product_id": 5,
+        "quantity": 48000,
+        "total_price": 2400000000,
+        "date": "2025-08-29"
+    }
+]
